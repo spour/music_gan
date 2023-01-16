@@ -12,7 +12,7 @@ Generative Adversarial Networks (GANs) are a class of machine learning models th
 ## Usage
 
 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/polyphonic-music-gan.git
+git clone https://github.com/spour/music_gan.git
 
 
 3. Collect and prepare MIDI files for training. The GAN requires a dataset of MIDI files to train on. You can use any publicly available MIDI files or create your own. Once you have your dataset, preprocess the files by converting them to a format that the GAN can understand.
